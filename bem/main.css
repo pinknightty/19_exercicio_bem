@@ -1,0 +1,12 @@
+.produto__imagem {
+  width: 100%;
+}
+.produto__descricao {
+  color: gray;
+}
+.produto__nome {
+  font-size: 1.2em;
+  margin: 8px 0;
+}
+
+/*# sourceMappingURL=main.css.map */
